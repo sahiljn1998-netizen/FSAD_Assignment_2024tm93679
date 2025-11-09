@@ -1,5 +1,4 @@
 # School Equipment Lending Portal
-# Manual Version
 
 ## Stack
 - Frontend: React
